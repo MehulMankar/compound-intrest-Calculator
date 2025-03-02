@@ -1,0 +1,2 @@
+# Calculator
+Compound intrest calculator
